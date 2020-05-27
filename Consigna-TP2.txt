@@ -1,0 +1,16 @@
+1. Create2 JSON files with authors and books
+2. Author have id, name and lastname
+3. Book have id, name and authorID
+
+
+Create a RestApi with the following endpoints
+
+
+1- Get all authors
+2- Get all books with author
+3- Add an author
+4- add a book
+5- Modify an author
+6- Modify a book
+7- Delete an author
+8- Delete a book
